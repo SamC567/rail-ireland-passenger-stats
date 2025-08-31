@@ -1,0 +1,3 @@
+12345|Aoife|Murphy|1995|aoife.murphy@example.com|Dublin|Economy|Less than three times per year
+22222|Sean|O'Neil|1988|sean.oneil@example.com|Munster|First Class|More than five times per year
+34567|Niamh|Kelly|2001|niamh.kelly@example.com|Connacht|Economy|Less than five times per year
