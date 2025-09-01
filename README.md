@@ -1,3 +1,4 @@
+!!Commits worked weird as was on my 3g mobile hotspot some files didnt fully commit each time!!
 # Rail Ireland Passenger Statistics (C, Linked List)
 
 
